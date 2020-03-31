@@ -2,7 +2,7 @@
 Play just for fun with neo4j and how visualize propagations of COVID to a small group of people
 
 
-#Create
+# Create
 CREATE(p:Person{nom:"Le Roy", prenom:"François", age:55})
 CREATE(v:Virus{nom: "Covid19"})
 
