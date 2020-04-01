@@ -1,0 +1,86 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "nom": "Le Roy",
+        "prenom": "François",
+        "age": 55
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Virus"
+      ],
+      "properties": {
+        "nom": "Covid19"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "nom": "Dubois",
+        "prenom": "Julia",
+        "age": 30
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Virus"
+      ],
+      "properties": {
+        "nom": "Grippe"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "prenom": "sam",
+        "age": 22
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "nom": "Laure",
+        "age": 40
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "nom": "Mu",
+        "prenom": "Shee"
+      }
+    }
+  }
+]
