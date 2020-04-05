@@ -1,6 +1,7 @@
 ## neo4j_graph_COVID19
 Play just for fun with neo4j and how visualize propagations of COVID to a small group of people
-https://github.com/mrNicky/neo4j_graph_COVID19/blob/master/graph_global.png
+
+![Image description](https://github.com/mrNicky/neo4j_graph_COVID19/blob/master/graph_global.png)
 
 #### Create
 CREATE(p:Person{nom:"Le Roy", prenom:"François", age:55})
